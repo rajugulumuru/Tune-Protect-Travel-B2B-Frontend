@@ -1,0 +1,79 @@
+// Export pages
+export '/pages/l_o_g_i_nand_s_i_g_n_u_p/passwordchange_mainp/passwordchange_mainp_widget.dart'
+    show PasswordchangeMainpWidget;
+export '/pages/l_o_g_i_nand_s_i_g_n_u_p/forgotpassword_main/forgotpassword_main_widget.dart'
+    show ForgotpasswordMainWidget;
+export '/pages/l_o_g_i_nand_s_i_g_n_u_p/loginpag_main/loginpag_main_widget.dart'
+    show LoginpagMainWidget;
+export '/pages/l_o_g_i_nand_s_i_g_n_u_p/registersucessful_main/registersucessful_main_widget.dart'
+    show RegistersucessfulMainWidget;
+export '/pages/queue_main/queue_main_widget.dart' show QueueMainWidget;
+export '/issue_policy/issue_policy_travel_main/issue_policy_travel_main_widget.dart'
+    show IssuePolicyTravelMainWidget;
+export '/pages/s_i_d_e_n_a_vpages/approval_main/approval_main_widget.dart'
+    show ApprovalMainWidget;
+export '/pages/dashboard_main/dashboard_main_widget.dart'
+    show DashboardMainWidget;
+export '/pages/l_o_g_i_nand_s_i_g_n_u_p/signup1_main/signup1_main_widget.dart'
+    show Signup1MainWidget;
+export '/pages/search_booking_main/search_booking_main_widget.dart'
+    show SearchBookingMainWidget;
+export '/pages/test111/test111_widget.dart' show Test111Widget;
+export '/pages/users_main/users_main_widget.dart' show UsersMainWidget;
+export '/pages/l_o_g_i_nand_s_i_g_n_u_p/relogin_main/relogin_main_widget.dart'
+    show ReloginMainWidget;
+export '/pages/mobilescreen/dashboard_s/dashboard_s_widget.dart'
+    show DashboardSWidget;
+export '/pages/adminflow/agency_register/agency_register_widget.dart'
+    show AgencyRegisterWidget;
+export '/pages/mobilescreen/issue_policy1_s/issue_policy1_s_widget.dart'
+    show IssuePolicy1SWidget;
+export '/pages/adminflow/invoicepage/invoicepage_widget.dart'
+    show InvoicepageWidget;
+export '/pages/adminflow/agencies_main/agencies_main_widget.dart'
+    show AgenciesMainWidget;
+export '/pages/mobilescreen/booking_detail_page_mobile/booking_detail_page_mobile_widget.dart'
+    show BookingDetailPageMobileWidget;
+export '/pages/productsandservices/productsandservices_widget.dart'
+    show ProductsandservicesWidget;
+export '/pages/booking_detail_page/booking_detail_page_widget.dart'
+    show BookingDetailPageWidget;
+export '/mobile/change_password_success_mobile_s/change_password_success_mobile_s_widget.dart'
+    show ChangePasswordSuccessMobileSWidget;
+export '/pages/mobilescreen/value_added_services_s/value_added_services_s_widget.dart'
+    show ValueAddedServicesSWidget;
+export '/pages/adminflow/config_search_and_delete_main/config_search_and_delete_main_widget.dart'
+    show ConfigSearchAndDeleteMainWidget;
+export '/mobile/reloginmobile/reloginmobile_widget.dart'
+    show ReloginmobileWidget;
+export '/pages/l_o_g_i_nand_s_i_g_n_u_p/p_wchangescussful_main/p_wchangescussful_main_widget.dart'
+    show PWchangescussfulMainWidget;
+export '/searchdelete_mobile/searchdelete_mobile_widget.dart'
+    show SearchdeleteMobileWidget;
+export '/addemail_mobile/addemail_mobile_widget.dart' show AddemailMobileWidget;
+export '/pages/s_i_d_e_n_a_vpages/policy_statement_main/policy_statement_main_widget.dart'
+    show PolicyStatementMainWidget;
+export '/pages/adminflow/payable_main/payable_main_widget.dart'
+    show PayableMainWidget;
+export '/pages/s_i_d_e_n_a_vpages/policystment_main/policystment_main_widget.dart'
+    show PolicystmentMainWidget;
+export '/pages/adminflow/email_config_main/email_config_main_widget.dart'
+    show EmailConfigMainWidget;
+export '/pages/adminflow/valueaddedservic_d_e_s_k_t_o_p/valueaddedservic_d_e_s_k_t_o_p_widget.dart'
+    show ValueaddedservicDESKTOPWidget;
+export '/pages/adminflow/agency_profile_main/agency_profile_main_widget.dart'
+    show AgencyProfileMainWidget;
+export '/pages/userprofile_main/userprofile_main_widget.dart'
+    show UserprofileMainWidget;
+export '/pages/adminflow/reseller_main/reseller_main_widget.dart'
+    show ResellerMainWidget;
+export '/manage_profile/manage_profile_widget.dart' show ManageProfileWidget;
+export '/manage_profile_edit/manage_profile_edit_widget.dart'
+    show ManageProfileEditWidget;
+export '/test/test_widget.dart' show TestWidget;
+export '/pages/s_i_d_e_n_a_vpages/topup_credit_main/topup_credit_main_widget.dart'
+    show TopupCreditMainWidget;
+export '/email_config_copy/email_config_copy_widget.dart'
+    show EmailConfigCopyWidget;
+export '/issue_policy/issue_policy_entry_page/issue_policy_entry_page_widget.dart'
+    show IssuePolicyEntryPageWidget;
