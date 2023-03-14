@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "472491850876",
+    "project_id": "tpt-dev-prj",
+    "storage_bucket": "tpt-dev-prj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472491850876:android:9824274397b6953a0c5df9",
+        "android_client_info": {
+          "package_name": "com.mycompany.tune2protect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472491850876-jo05liirdqr87p9k583k4rlaiii858b8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqzAP8X9zAB5m0aZtwwAPdavwNsfFPPsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472491850876-jo05liirdqr87p9k583k4rlaiii858b8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "472491850876-lntt3roql40ttp9pcvic0ons333lqcuf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.tune2protect"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
