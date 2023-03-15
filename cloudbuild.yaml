@@ -1,0 +1,15 @@
+steps:
+options:
+  logging: CLOUD_LOGGING_ONLY
+
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['build', '-t', 'gcr.io/tpt-dev-prj/frontend-flutter', '.']
+
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['push', 'gcr.io/tpt-dev-prj/frontend-flutter']
+
+- name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+  entrypoint: gcloud
+  args: ['run', 'deploy', 'tpt-feflutter-cloudrun', '--image', 'gcr.io/tpt-dev-prj/frontend-flutter', '--region', 'asia-south1-a']
+images:
+- gcr.io/tpt-dev-prj/frontend-flutter
